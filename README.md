@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello 🙋‍♂️, I am Alejandro
 
-<!--
-**umdalecs/umdalecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy backend development and sometimes breaking code. I'm currently pursuing a degree in Computer Systems Engineering.
 
-Here are some ideas to get you started:
+I'm focused on becoming a professional Go backend developer, building APIs and microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I wouldn’t call myself an expert, I’m comfortable working with Java, React, HTML, CSS, JavaScript, Typescript, Docker, .NET, and MS SQL.
+
+I’ve explored technologies like Go, Angular, PostgreSQL, MySQL, MongoDB, Rust, PHP, and Node.js at a beginner level.
+
+I'm a Linux user who enjoys testing different distros and breaking my system as I learn new things.
+
+## Github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umdalecs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umdalecs&layout=compact&theme=radical)
