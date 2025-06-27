@@ -2,8 +2,6 @@
 
 I enjoy backend development and sometimes breaking code. I'm currently pursuing a degree in Computer Systems Engineering.
 
-I'm focused on becoming a professional Go backend developer, building APIs and microservices.
-
 I'm a Linux user who enjoys testing different distros and breaking my system as I learn new things.
 
 ## Tech stack
